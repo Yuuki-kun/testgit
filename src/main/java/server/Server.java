@@ -17,6 +17,8 @@ import java.util.concurrent.Executors;
  */
 public class Server {
 
+    //huyfnh lozz awn cuwscl,kmjnui
+    
     private static ArrayList<ClientExecute> clientsList = new ArrayList<>();
     private static ExecutorService pool = Executors.newFixedThreadPool(20);
 
